@@ -1,0 +1,31 @@
+_repo: John-Dewey-s-logical-theory_38141
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Howard, Delton Thomas
+    alias: Howard, D. T. (Delton Thomas)
+    birthdate: 1883
+    gutenberg_agent_id: '39263'
+    url: http://www.gutenberg.org/2009/agents/39263
+description: ''
+gutenberg_issued: '2011-11-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38141'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Dewey, John, 1859-1952'
+- !lcc 'B'
+- !lcsh 'Logic'
+tableOfContents: '"Psychology as philosophic method" -- The development of the psychological
+  standpoint -- "Moral theory and practice" -- Functional psychology -- The evolutionary
+  standpoint -- "Studies in logical theory" -- The polemical period -- Later developments
+  -- Conclusions.'
+title: John Dewey's logical theory
+url: http://www.gutenberg.org/ebooks/38141
