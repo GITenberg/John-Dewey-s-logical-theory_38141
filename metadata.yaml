@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '39263'
     url: http://www.gutenberg.org/2009/agents/39263
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38141#John-Dewey-s-logical-theory
 gutenberg_issued: '2011-11-26'
 gutenberg_type: Text
 identifiers:
